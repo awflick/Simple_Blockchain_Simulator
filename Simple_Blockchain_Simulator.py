@@ -1,7 +1,6 @@
 #Simple Blockchain Simulator
 #Adam Flick
 #02/09/2025
-#test
 
 import hashlib
 from datetime import datetime
